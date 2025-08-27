@@ -22,3 +22,4 @@ Through this project, I explored how to:
 - Adjusting clock settings deepened my understanding of how MCU timing and peripheral behavior are interconnected.
 
 This repository serves as a personal record of my hands-on experimentation and growing familiarity with STM32 peripherals, rather than as a step-by-step guide for others.
+
